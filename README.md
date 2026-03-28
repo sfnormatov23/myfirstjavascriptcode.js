@@ -10,7 +10,8 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
   <summary>Kodni ochish/yopish</summary>
 
 
-```console.log("Salom nima gap")
+```javascript
+console.log("Salom nima gap")
 var text= "Sirojiddin"
 console.log(text.toUpperCase())
 console.log(text.toLowerCase())
