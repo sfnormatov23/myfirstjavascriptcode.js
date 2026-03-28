@@ -1,10 +1,7 @@
-## Mening Birinchi GIS Loyiham
+<details>
+  <summary>💻 Bu yerni bosing (Kodlarni ko'rish uchun)</summary>
 
-Salom! Bu mening birinchi ishim.
-
-### Natijaviy xarita:
-![ish natijasi](LULc%202020t.jpg)
-
-# Mening ikkinch GIS loyiham
-
-Salom! Nima gap
+  ```javascript
+  // Bu yerda sizning 200 qatorli kodingiz turadi
+  console.log("Juda uzun kod...");
+  // ...
