@@ -5,7 +5,7 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
 ### 🗺️ Natijaviy xarita
 ![Mening xaritam](LULc%202020t.jpg)
 
-###Mening tahlil kodim  (Ko'rish uchun bosing)
+### Mening tahlil kodim  (Ko'rish uchun bosing)
 <details>
   <summary>Kodni ochish/yopish</summary>
 
