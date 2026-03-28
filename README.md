@@ -3,7 +3,7 @@
 Salom! Bu mening birinchi ishim.
 
 ### Natijaviy xarita:
-![ish natijasi](LULc_2020t.jpg)
+![ish natijasi](LULc20%2020t.jpg)
 
 # Mening ikkinch GIS loyiham
 
