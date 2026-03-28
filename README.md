@@ -3,7 +3,7 @@
 Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
 
 ### 🗺️ Natijaviy xarita
-![Mening xaritam](LULc%202020t.jpg)
+<img src="LULc%202020t.jpg" width="400" alt="LULC tahlil xaritasi">
 
 ## Mening tahlil kodim  (Ko'rish uchun bosing)
 <details>
