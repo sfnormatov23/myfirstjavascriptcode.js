@@ -54,4 +54,4 @@ var qiymat = 20+80
 if(qiymat==100){console.log("to'g'ri javob")}else{console.log("noto'g'ri javob")}
 var regions =["Farg'ona", "Andijon", "Namangan"]
 console.log(regions.length)
-console.log(regions[1])```
+console.log(regions[1])
