@@ -1,6 +1,7 @@
-# Mening Birinchi GIS Loyiham
+## Mening Birinchi GIS Loyiham
 
 Salom! Bu mening birinchi ishim.
 
 ### Natijaviy xarita:
-![Xaritam](LULc_2020t.jpg)
+![ish natijasi](LULc 2020t.jpg)
+#sirojiddin
