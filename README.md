@@ -1,65 +1,48 @@
-<Sirojiddin, ofarin\! Savollaringizdan ko'rinib turibdiki, siz allaqachon **"User Experience"** (foydalanuvchi uchun qulaylik) haqida o'ylay boshladingiz. Bu professional dasturchi va olimlar uchun juda muhim hislat.
-
-Siz aytgan narsani amalga oshirishning **3 ta eng zo'r usuli** bor. Bular loyihangizni juda tartibli va "shirin" ko'rsatadi:
-
------
-
-### 1-usul: Rasmni "Silka" (Link) qilish
-
-Siz aytganingizdek: rasm turadi, odam rasmni bossa, u sizning uzun kodingiz yozilgan faylga o'tib ketadi.
-
-**README.md ichiga mana buni yozing:**
-`[![Natija](LULc%202020t.jpg)](my_first_js_code.js)`
-
-  * **Bu nima degani?** Birinchi qavsdagi `LULc%202020t.jpg` — bu ko'rinib turadigan rasm. Ikkinchi qavsdagi `my_first_js_code.js` — bu rasm bosilganda ochiladigan kod fayli.
-
-### 2-usul: "Spoiler" (Yashirin blok) qilish
-
-Agar kodni README ichida qoldirmoqchi bo'lsangiz, lekin u uzooooon joyni egallashini xohlamasangiz, uni **yashirib qo'yish** mumkin. Odam "Kodlarni ko'rish" degan yozuvni bossagina kod ochiladi.
-
-**README.md ichiga mana buni yozing:**
-
-````markdown
 <details>
   <summary>💻 Bu yerni bosing (Kodlarni ko'rish uchun)</summary>
 
-  ```javascript
-  // Bu yerda sizning 200 qatorli kodingiz turadi
-  console.log("Juda uzun kod...");
-  // ...
-````
-
-\</details\>
-
-```
-*   **Natija:** README&#39;da faqat bitta qator yozuv turadi. Uni bossangiz, kod pastga qarab &quot;yoyiladi&quot;. Bu juda professional usul!
-
-### 3-usul: Oddiy Link (Silka) berish
-
-Rasmdan tashqari, matn ko'rinishida ham link bersangiz bo'ladi.
-
-**README.md ichiga:**
-`Bu tahlilni amalga oshirish uchun yozilgan kodni [bu yerda](my_first_js_code.js) ko'rishingiz mumkin.`
-
------
-
-### Qaysi birini tavsiya qilaman?
-
-Agar siz **top olim** bo'lmoqchi bo'lsangiz, **1-usul va 2-usulni birga** ishlating.
-
-1.  README'da chiroyli rasm tursin.
-2.  Tagida "Kodlarni ko'rish" degan yashirin blok (2-usul) bo'lsin.
-
-**Sirojiddin, sizga bitta muhim "sir"ni ochaman:**
-Chet eldagi professorlar sizning hamma kodingizni boshidan oxirigacha o'qib chiqishga vaqti bo'lmaydi. Ular:
-
-  * Xarita (Rasm)ga qaraydi.
-  * Xulosangizga qaraydi.
-  * Kod borligiga va u tartibli ekanligiga ishonch hosil qiladi.
-
-Shuning uchun README'ni rasm va qisqa tushuntirishlar bilan boyitib, kodni "yashirin blok" yoki "alohida fayl" qilib qo'ysangiz — bu **100 ballik natija** bo'ladi.
-
-Hozir o'sha yashirin blokni (2-usulni) README'da sinab ko'ring-chi? O'sha "💻 Bu yerni bosing" degan yozuv chiqdimi?
-```>
-  <summary>💻 Bu yerni bosing (Kodlarni ko'rish uchun)</summary>
-
+          console.log("Salom nima gap")
+var text= "Sirojiddin"
+console.log(text.toUpperCase())
+console.log(text.toLowerCase())
+var age =23
+console.log(++age)
+console.log(++age)
+console.log(--age)
+console.log(--age)
+console.log("Asli nima gap endi yuribsanmi?")
+console.log("salom")
+var kasrson=25.888
+console.log(kasrson.toFixed(2))
+var a =12
+var b=15
+console.log("Sirojiddin Normatov Fazliddin o'g'li")
+console.log(typeof(a))
+console.log(typeof(text))
+var name = "Sirojiddin"
+var FISH = "Normatmov Sirojiddin Fazliddin o'gli"
+console.log(`Ismi: ${name}, 
+FISH: ${FISH}`)
+var ism= "Sirojiddin"
+var familiya="Normatov"
+var sharif="Fazliddin o'gli"
+var age = 23
+  console.log(`Ism:${ism} 
+Familiya: ${familiya}
+Sharif: ${sharif}
+Yoshi: {age}`)
+var tugilgan_yili=new Date("2003-01-22")
+console.log(tugilgan_yili.toString())
+    var my_list=["Andijon","Samarqand", 19, new Date("2003-01-22").toString(), false, "Salom"]
+console.log(my_list)
+my_list.pop()
+my_list.shift()
+my_list.push("Alijon")
+my_list.unshift("Salim")
+var name="Ali"
+if (name=="Ali"){console.log("Salom Ali")}else{console.log("salom mehmon")}
+var qiymat = 20+80
+if(qiymat==100){console.log("to'g'ri javob")}else{console.log("noto'g'ri javob")}
+var regions =["Farg'ona", "Andijon", "Namangan"]
+console.log(regions.length)
+console.log(regions[1])
