@@ -23,7 +23,7 @@ FISH: ${FISH}`)
 var ism= "Sirojiddin"
 var familiya="Normatov"
 var sharif="Fazliddin o'gli"
-var age = 23
+var age = 23+12
   console.log(`Ism:${ism} 
 Familiya: ${familiya}
 Sharif: ${sharif}
