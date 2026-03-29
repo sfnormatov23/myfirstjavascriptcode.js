@@ -3,7 +3,10 @@
 Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
 
 ### 🗺️ Natijaviy xarita
-<img src="LULc%202020t.jpg" width="500" alt="LULC tahlil xaritasi">
+<figure>
+  <img src="LULc%202020t.jpg" width="400" alt="Xarita">
+  <figcaption>Rasm 1. Toshkent viloyati LULC tahlili (2020)</figcaption>
+</figure>
 
 ## Mening tahlil kodim  (Ko'rish uchun bosing)
 <details>
