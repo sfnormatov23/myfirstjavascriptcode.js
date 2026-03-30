@@ -16,6 +16,7 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
 
 </figure>
 <hr>
+Bu xaritani tayyorlash uchun men Sentinel-2 suniy yo'ldosh ma'lumotlaridan foydalandim va men Toshkent shaxrini 2024-yil uchun tahlil qilib chiqdim. 
 
 
 
