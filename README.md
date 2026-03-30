@@ -7,7 +7,7 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
   <img src="LULc%202020t.jpg" width="500">
   <figcaption>Rasm 1. Toshkent viloyati LULC tahlili (2020)</figcaption>
 </figure>
-## Mening tahlil kodim  (Ko'rish uchun bosing)
+### Mening tahlil kodim  (Ko'rish uchun bosing)
 <details>
   <summary>Kodni ochish/yopish</summary>
 
