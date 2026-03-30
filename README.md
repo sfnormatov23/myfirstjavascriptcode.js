@@ -15,6 +15,7 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
   <figcaption>Rasm 1. Toshkent viloyati LULC tahlili (2020)</figcaption>
 
 </figure>
+<hr>
 
 
 
