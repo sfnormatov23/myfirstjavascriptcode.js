@@ -16,7 +16,7 @@ Bu yerda mening birinchi amaliy ishim natijasi ko'rsatilgan.
 
 </figure>
 <hr>
-<blockquote> Bu xaritani tayyorlash uchun men **Sentinel-2** suniy yo'ldosh ma'lumotlaridan foydalandim va men **Toshkent** shaxrini 2024-yil uchun tahlil qilib chiqdim. 
+<blockquote> Bu xaritani tayyorlash uchun men <b>Sentinel-2</b> suniy yo'ldosh ma'lumotlaridan foydalandim va men **Toshkent** shaxrini 2024-yil uchun tahlil qilib chiqdim. </blockquote>
 
 
 
